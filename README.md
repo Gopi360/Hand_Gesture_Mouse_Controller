@@ -62,5 +62,3 @@ hand-gesture-mouse/
 ## 🌟 Star this repo if you found it useful!
 
 ```
-
-Let me know if you want me to include instructions for recording the demo GIF or preparing a requirements.txt file.
